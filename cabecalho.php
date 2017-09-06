@@ -30,7 +30,7 @@
                     if(strcmp($_SERVER['PHP_SELF'], "/GRIHC/projetoMaltu.php") == 0){
                         ?><li class="active"><a href="projetoMaltu.php">Projeto MALTU (2016 - 2018)</a></li><?php
                     } else{
-                        ?><li><a href="projetoMaltu.php">Projeto MALTU</a></li><?php
+                        ?><li><a href="projetoMaltu.php">Projeto MALTU (2016 - 2018)</a></li><?php
                     }
                   ?> 
                   </ul>
