@@ -62,8 +62,8 @@
                                             Brasil <br>
 		 			</p>
                             </div>
-                            <div class="col-lg-6 centered">
-                                <img style="max-width: 500px;" src="assets/img/instituicoes/ufc.png" alt="">
+                            <div class="col-lg-6 centered logoprincipal">
+                                <img style="max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt="">
                             </div>
 		 	
 		 	</div><! --/row -->
