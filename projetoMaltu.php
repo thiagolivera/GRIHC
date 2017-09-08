@@ -40,11 +40,39 @@
                     <h3>Avaliação da interação em sistemas interativos a partir da linguagem textual do usuário</h3>
                 </div>
             </div>
-        </div> 
+        </div>
     </div>
-        
+      
     <!--Seção de Produtos do Projeto -->
     <div id="cwrap" style="padding-top: 20px; padding-bottom: 50px;">
+            <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Objetivos do Projeto</h4>
+            <p style="font-size: 16px; text-align: justify;">O objetivo geral deste projeto de pesquisa é estudar e implementar novas técnicas de avaliação da interação em Sistemas Sociais(SS) a partir da linguagem textual do usuário
+            <br><br><i class="fa fa-check-square" aria-hidden="true"></i> Realizar uma revisão bibliográfica sobre conceitos referentes a avaliação de sistemas, técnicas de PLN, mineração de dados, análise de sentimentos e modelagem da interface, a fim de identificar melhores formas de aplicar tais técnicas na extração, classificação e estudo de SS
+            <br><i class="fa fa-check-square" aria-hidden="true"></i> Realização de experimentos a partir da extração de postagens usando técnicas de PLN, como análise morfológica e sintática, identificando a estrutura morfológica da sentença
+            <br><i class="fa fa-check-square" aria-hidden="true"></i> Implementação de algoritmos de PLN e análise de sentimentos a fim de classificar sentenças
+            <br><i class="fa fa-check-square" aria-hidden="true"></i> Realizar investigações em postagens dos usuários em SS a fim de estudar suas características
+            <br><i class="fa fa-check-square" aria-hidden="true"></i> Estudo e aplicação da linguagem de marcação UsiXML para remodelagem de interface
+            </p>
+        </div>
+
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Detalhes do Projeto</h4>
+            <div class="hline"></div>
+            <p><b>Data de início:</b> Maio de 2016</p>
+            <p><b>Status:</b> Em andamento</p>
+            <p><b>Coordenador(a):</b> Marília Soares Mendes</p>
+            <p><b>Categorias:</b> Interação Humano Computador (IHC)</p>
+            <p><b>Palavras-chave:</b> Avaliação, Usabilidade, Experiência do Usuário</p>
+            <p><b>Financiador(a):</b> Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - FUNCAP</p>
+
+        </div>
+    </div>
+          
+    <!--Seção de Produtos do Projeto -->
+    <div id="blue" style="padding-top: 20px; padding-bottom: 50px;">
         <div class="container">
             <div class="row centered">
                 <h3 style="margin-bottom: 20px;">PRODUTOS</h3>
@@ -52,13 +80,8 @@
                     <div class=" col-lg-12 col-sm-12 col-md-12">
                         <div class="portfolio-item graphic-design">
                             <div class="he-wrap tpl6">
-                                <img src="assets/img/clients/uuxposts.svg" alt="UUX Posts - Analisador de postagens de sistemas sociais">
-                                    <div class="he-view">
-                                        <div class="bg a0" data-animate="fadeIn">
-                                            <a href="http://uuxposts.russas.ufc.br/" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i></a>
-                                        </div><!-- he bg -->
-                                    </div><!-- he view -->
-                                    <h4>UUX Posts - Analisador de postagens de sistemas sociais</h4>		
+                                <a href="http://uuxposts.russas.ufc.br/" target="_blank"> <img src="assets/img/clients/uuxposts.svg" alt="UUX Posts - Analisador de postagens de sistemas sociais">
+                                <br><a href="http://uuxposts.russas.ufc.br/" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i><h4 style="color: #fff">UUX Posts - Analisador de postagens de sistemas sociais</h4></a>
                             </div><!-- he wrap -->
                         </div><!-- end col-12 -->
                     </div>

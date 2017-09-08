@@ -23,16 +23,29 @@
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">PROJETOS<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li class="dropdown-header">Ensino</li>
-                        <li><a href="single-post.html">Aplicação prática dos conceitos de IHC (2017)</a></li>
-                    
+                        <?php 
+                            if(strcmp($_SERVER['PHP_SELF'], "/GRIHC/monitoriaIHC-2017.php") == 0){
+                                ?><li class="active"><a href="monitoriaIHC-2017.php">Aplicação prática dos conceitos de IHC (2017)</a></li><?php
+                            } else{
+                                ?><li><a href="monitoriaIHC-2017.php">Aplicação prática dos conceitos de IHC (2017)</a></li><?php
+                            }
+                        ?> 
                     <li class="dropdown-header">Pesquisa</li>
-                    <?php 
-                    if(strcmp($_SERVER['PHP_SELF'], "/GRIHC/projetoMaltu.php") == 0){
-                        ?><li class="active"><a href="projetoMaltu.php">Projeto MALTU (2016 - 2018)</a></li><?php
-                    } else{
-                        ?><li><a href="projetoMaltu.php">Projeto MALTU (2016 - 2018)</a></li><?php
-                    }
-                  ?> 
+                        <?php 
+                        if(strcmp($_SERVER['PHP_SELF'], "/GRIHC/projetoMaltu.php") == 0){
+                            ?><li class="active"><a href="projetoMaltu.php">Projeto MALTU (2016 - 2018)</a></li><?php
+                        } else{
+                            ?><li><a href="projetoMaltu.php">Projeto MALTU (2016 - 2018)</a></li><?php
+                        }
+                      ?>
+                    <li class="dropdown-header">Extensão</li>
+                        <?php 
+                        if(strcmp($_SERVER['PHP_SELF'], "/GRIHC/extensaoIHC-2017.php") == 0){
+                            ?><li class="active"><a href="extensaoIHC-2017.php">Projeto e desenvolvimento de sistemas acessíveis para o município de Russas (2017)</a></li><?php
+                        } else{
+                            ?><li><a href="projetoMaltu.php">Projeto e desenvolvimento de sistemas acessíveis para o município de Russas (2017)</a></li><?php
+                        }
+                      ?> 
                   </ul>
                 </li>
                 <?php 

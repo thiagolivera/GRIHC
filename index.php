@@ -61,7 +61,10 @@
                                             Cidade Universitária, Russas - CE <br>
                                             Brasil <br>
 		 			</p>
-		 		</div>
+                            </div>
+                            <div class="col-lg-6 centered">
+                                <img style="max-width: 500px;" src="assets/img/instituicoes/ufc.png" alt="">
+                            </div>
 		 	
 		 	</div><! --/row -->
 	 	</div><! --/container -->
