@@ -47,7 +47,8 @@
     <div id="cwrap" style="padding-top: 20px; padding-bottom: 50px;">
             <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Descrição do Projeto</h4>
+            <h4 style="font-size: 20px;">Descrição do Projeto</h4>
+            <div class="hline"></div>
             <p style="font-size: 16px; text-align: justify;">Realização de grupos de estudos e práticas de IHC a fim de estimular e apoiar os alunos dos cursos de Engenharia de Software e Ciência da Computação do Campus da UFC em Russas na área de IHC, de forma que eles possam usar tais conhecimentos em disciplinas correntes e posteriores, como também no mercado de trabalho. 
             <br><br><i class="fa fa-check-square" aria-hidden="true"></i> Acompanhamento nas aulas de laboratório
             <br><i class="fa fa-check-square" aria-hidden="true"></i> Atendimento convencional
@@ -59,14 +60,14 @@
 
         <div class="col-lg-4 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Detalhes do Projeto</h4>
+            <h4 style="font-size: 20px;">Detalhes do Projeto</h4>
             <div class="hline"></div>
-            <p><b>Data de início:</b> Março de 2017</p>
-            <p><b>Status:</b> Em andamento</p>
-            <p><b>Coordenador(a):</b> Marília Soares Mendes</p>
-            <p><b>Categorias:</b> Interação Humano Computador (IHC)</p>
-            <p><b>Palavras-chave:</b> Avaliação, Usabilidade, Experiência do Usuário</p>
-            <p><b>Financiador(a):</b> Universidade Federal do Ceará - UFC</p>
+            <p style="font-size: 16px;"><b>Data de início:</b> Março de 2017</p>
+            <p style="font-size: 16px;"><b>Status:</b> Em andamento</p>
+            <p style="font-size: 16px;"><b>Coordenador(a):</b> Marília Soares Mendes</p>
+            <p style="font-size: 16px;"><b>Categorias:</b> Interação Humano Computador (IHC)</p>
+            <p style="font-size: 16px;"><b>Palavras-chave:</b> Avaliação, Usabilidade, Experiência do Usuário</p>
+            <p style="font-size: 16px;"><b>Financiador(a):</b> Universidade Federal do Ceará - UFC</p>
 
         </div>
     </div>
@@ -81,7 +82,7 @@
                         <div class="portfolio-item graphic-design">
                             <div class="he-wrap tpl6">
                                 <a href="http://projetoacaodigital.com.br/code3/" target="_blank"> <img id="logoEnglish" src="assets/img/clients/kingdomLogo.svg" alt="UUX Posts - Analisador de postagens de sistemas sociais">
-                                <br><a href="http://projetoacaodigital.com.br/code3/" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i><h4 style="color: #fff">English Kingdom - Uma plataforma para ensinar inglês à crianças (Protótipo)</h4></a>
+                                    <br><a href="http://projetoacaodigital.com.br/code3/" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i><h4 style="color: #fff">English Kingdom (Protótipo)<br><h5>Conheça o projeto<h5></h4></a>
                                 
                             </div><!-- he wrap -->
                         </div><!-- end col-12 -->

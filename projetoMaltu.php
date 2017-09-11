@@ -47,7 +47,8 @@
     <div id="cwrap" style="padding-top: 20px; padding-bottom: 50px;">
             <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Objetivos do Projeto</h4>
+            <h4 style="font-size: 20px;">Objetivos do Projeto</h4>
+            <div class="hline"></div>
             <p style="font-size: 16px; text-align: justify;">O objetivo geral deste projeto de pesquisa é estudar e implementar novas técnicas de avaliação da interação em Sistemas Sociais(SS) a partir da linguagem textual do usuário
             <br><br><i class="fa fa-check-square" aria-hidden="true"></i> Realizar uma revisão bibliográfica sobre conceitos referentes a avaliação de sistemas, técnicas de PLN, mineração de dados, análise de sentimentos e modelagem da interface, a fim de identificar melhores formas de aplicar tais técnicas na extração, classificação e estudo de SS
             <br><i class="fa fa-check-square" aria-hidden="true"></i> Realização de experimentos a partir da extração de postagens usando técnicas de PLN, como análise morfológica e sintática, identificando a estrutura morfológica da sentença
@@ -59,14 +60,14 @@
 
         <div class="col-lg-4 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Detalhes do Projeto</h4>
+            <h4 style="font-size: 20px;">Detalhes do Projeto</h4>
             <div class="hline"></div>
-            <p><b>Data de início:</b> Maio de 2016</p>
-            <p><b>Status:</b> Em andamento</p>
-            <p><b>Coordenador(a):</b> Marília Soares Mendes</p>
-            <p><b>Categorias:</b> Interação Humano Computador (IHC)</p>
-            <p><b>Palavras-chave:</b> Avaliação, Usabilidade, Experiência do Usuário</p>
-            <p><b>Financiador(a):</b> Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - FUNCAP</p>
+            <p style="font-size: 16px;"><b>Data de início:</b> Maio de 2016</p>
+            <p style="font-size: 16px;"><b>Status:</b> Em andamento</p>
+            <p style="font-size: 16px;"><b>Coordenador(a):</b> Marília Soares Mendes</p>
+            <p style="font-size: 16px;"><b>Categorias:</b> Interação Humano Computador (IHC)</p>
+            <p style="font-size: 16px;"><b>Palavras-chave:</b> Avaliação, Usabilidade, Experiência do Usuário</p>
+            <p style="font-size: 16px;"><b>Financiador(a):</b> Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - FUNCAP</p>
 
         </div>
     </div>
