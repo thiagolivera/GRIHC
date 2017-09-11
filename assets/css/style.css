@@ -370,8 +370,20 @@ a:focus {
 }
 
 @media screen and (min-width: 1200px) {
+    .contato{
+        margin-top: 40px;
+    }
+    
     #blue {
         margin-top: 450px;
+    }
+    
+    
+}
+
+@media screen and (min-width: 700px){
+    #logoEnglish {
+        max-width: 600px;
     }
 }
 

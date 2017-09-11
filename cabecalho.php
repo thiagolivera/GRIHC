@@ -50,9 +50,9 @@
                 </li>
                 <?php 
                     if(strcmp($_SERVER['PHP_SELF'], "/GRIHC/contato.php") == 0){
-                        ?><li class="active"><a href="contact.html">CONTATO</a></li><?php
+                        ?><li class="active"><a href="contato.php">CONTATO</a></li><?php
                     } else{
-                        ?><li><a href="contact.html">CONTATO</a></li><?php
+                        ?><li><a href="contato.php">CONTATO</a></li><?php
                     }
                   ?> 
                 

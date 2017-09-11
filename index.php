@@ -59,6 +59,7 @@
                                             Universidade Federal do Ceará - Campus Russas <br>
                                             Rua Felipe Santiago, N° 411<br>
                                             Cidade Universitária, Russas - CE <br>
+                                            CEP: 62.900-000<br>
                                             Brasil <br>
 		 			</p>
                             </div>
