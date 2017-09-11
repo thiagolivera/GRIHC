@@ -123,8 +123,8 @@
                             </div><!-- he wrap -->
 				
                             <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Monitor</h5>
-                            <h4 style="margin-bottom: 0px;">Thiago Silva</h4>
-                            <p style="margin-top: 0px;">thiago.engsoftware@gmail.com</p>
+                            <h4 style="margin-bottom: 0px;">Herison Maciel</h4>
+                            <p style="margin-top: 0px;">email@email.com</p>
                             <div class="hline"></div>
 		 	</div><! --/col-lg-3 -->
                         
@@ -140,8 +140,8 @@
                             </div><!-- he wrap -->
 				
                             <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Monitor Voluntário</h5>
-                            <h4 style="margin-bottom: 0px;">Gabriel Júnior</h4>
-                            <p style="margin-top: 0px;">gabrieljunior@alu.ufc.br</p>
+                            <h4 style="margin-bottom: 0px;">Ednardo Barbosa</h4>
+                            <p style="margin-top: 0px;">email@email.com</p>
                             <div class="hline"></div>
 		 	</div><! --/col-lg-3 -->
 	 	</div><! --/row -->
