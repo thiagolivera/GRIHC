@@ -43,7 +43,7 @@
                         if(strcmp($_SERVER['PHP_SELF'], "/GRIHC/extensaoIHC-2017.php") == 0){
                             ?><li class="active"><a href="extensaoIHC-2017.php">Projeto e desenvolvimento de sistemas acessíveis para o município de Russas (2017)</a></li><?php
                         } else{
-                            ?><li><a href="projetoMaltu.php">Projeto e desenvolvimento de sistemas acessíveis para o município de Russas (2017)</a></li><?php
+                            ?><li><a href="extensaoIHC-2017.php">Projeto e desenvolvimento de sistemas acessíveis para o município de Russas (2017)</a></li><?php
                         }
                       ?> 
                   </ul>
