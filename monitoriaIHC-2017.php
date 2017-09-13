@@ -95,63 +95,72 @@
      <!-- *****************************************************************************************************************
 	 TEEAM MEMBERS
 	 ***************************************************************************************************************** -->
+        <h3 class="mb row centered" style="margin-bottom: 40px;">CONHEÇA NOSSO TIME</h3>
+        <div class="container mtb" style="margin-top: 20px; margin-bottom: 0px;">
+            <div class="row centered">
+                <h4 style="font-size: 20px;">Professores</h4>
+                <div class="hline"></div> <br>
 
-	 <div class="container mtb">
-	 	<div class="row centered">
-		 	<h3 class="mb" style="margin-bottom: 40px;">CONHEÇA NOSSO TIME</h3>
-		 	
-                        <div style="padding-bottom: 30px;" class="col-lg-4 col-md-4 col-sm-4">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/3731017260116598" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Coordenadora do Projeto</h5>
-                            <h4 style="margin-bottom: 0px;">Marília Mendes</h4>
-                            <p style="margin-top: 0px;">marilia.mendes@ufc.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-4 col-md-4 col-sm-4">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Monitor</h5>
-                            <h4 style="margin-bottom: 0px;">Thiago Silva</h4>
-                            <p style="margin-top: 0px;">thiago.engsoftware@gmail.com</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-4 col-md-4 col-sm-4">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Monitor Voluntário</h5>
-                            <h4 style="margin-bottom: 0px;">Gabriel Júnior</h4>
-                            <p style="margin-top: 0px;">gabrieljunior@alu.ufc.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-	 	</div><! --/row -->
-	 </div><! --/container -->
+                <div style="padding-bottom: 30px;" class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="he-wrap tpl6">
+                        <img style="max-width: 300px;" src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/3731017260116598" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Coordenadora do Projeto</h5>
+                    <h4 style="margin-bottom: 0px;">Marília Mendes</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">marilia.mendes@ufc.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+            </div>
+        </div>
+
+        <div class="container mtb" style="margin-top: 20px; margin-bottom: 0px;">
+            <div class="row centered">
+                <h4 style="font-size: 20px;">Alunos de Graduação</h4>
+                <div class="hline"></div> <br>
+                
+                <div style="padding-bottom: 30px;" class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="he-wrap tpl6">
+                        <img style="max-width: 300px;" src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/9959615805506017" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Monitor Voluntário</h5>
+                    <h4 style="margin-bottom: 0px;">Gabriel Júnior</h4>
+                    <p style="margin-top: 0px;">gabrieljunior@alu.ufc.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+                
+                <div style="padding-bottom: 30px;" class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="he-wrap tpl6">
+                        <img style="max-width: 300px;" src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/3528649538068445" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Monitor</h5>
+                    <h4 style="margin-bottom: 0px;">Thiago Silva</h4>
+                    <p style="margin-top: 0px;">thiago.engsoftware@gmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+            </div>
+        </div>
 
 	<!-- *****************************************************************************************************************
 	 FOOTER

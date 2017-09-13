@@ -164,320 +164,352 @@
 	 TEEAM MEMBERS
 	 ***************************************************************************************************************** -->
 
-	 <div class="container mtb">
-	 	<div class="row centered">
-		 	<h3 class="mb" style="margin-bottom: 40px;">CONHEÇA NOSSO TIME</h3>
-		 	
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/3731017260116598" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Coordenadora do Projeto</h5>
-                            <h4 style="margin-bottom: 0px;">Marília Mendes</h4>
-                            <p style="margin-top: 0px;">marilia.mendes@ufc.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Elizabeth Furtado</h4>
-                            <p style="margin-top: 0px;">elizabet@unifor.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Miguel Castro</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Vasco Furtado</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Jean Vanderdonckt</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Vládia Pinheiro</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Andreia Sampaio</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Ingrid Monteiro</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Lívia Cruz</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Denilson Oliveira</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Afonso Lima</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Lavínia Freitas</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Leon Almeida</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Thiago Silva</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_female.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Paloma Bispo</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Jeferson Juliani</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Douglas Oliveira</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="he-wrap tpl6">
-                                <img src="assets/img/team/team_male.svg" alt="">
-                                <div class="he-view">
-                                    <div class="bg a0" data-animate="fadeIn">
-                                        <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
-                                        <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
-                                    </div><!-- he bg -->
-				</div><!-- he view -->		
-                            </div><!-- he wrap -->
-				
-                            <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
-                            <h4 style="margin-bottom: 0px;">Isaac Rahel</h4>
-                            <p style="margin-top: 0px;">email@email.br</p>
-                            <div class="hline"></div>
-		 	</div><! --/col-lg-3 -->
-                        
-                        
+        <h3 class="mb row centered" style="margin-bottom: 20px;">CONHEÇA NOSSO TIME</h3>
+        <div class="container mtb" style="margin-top: 20px; margin-bottom: 0px;">
+            <div class="row centered">
+                <h4 style="font-size: 20px;">Professores</h4>
+                <div class="hline"></div> <br>
 
-	 	</div><! --/row -->
-	 </div><! --/container -->
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/3731017260116598" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Coordenadora do Projeto</h5>
+                    <h4 style="margin-bottom: 0px;">Marília Mendes</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">marilia.mendes@ufc.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/5714218246069496" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Andreia Sampaio</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Quixadá</p>
+                    <p style="margin-top: 0px;">andreia.ufc@gmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/7542338901767495" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Elizabeth Furtado</h4>
+                    <p style="margin-top: 0px;">UNIFOR / UECE</p>
+                    <p style="margin-top: 0px;">elizabet@unifor.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/6835701169389233" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Ingrid Monteiro</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Quixadá</p>
+                    <p style="margin-top: 0px;">ingrid@ufc.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+                
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="#" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Jean Vanderdonckt</h4>
+                    <p style="margin-top: 0px;">Université catholique de Louvain</p>
+                    <p style="margin-top: 0px;">jean.vanderdonckt@uclouvain.be</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+                
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/8972397134674530" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Lívia Cruz</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Quixadá</p>
+                    <p style="margin-top: 0px;">livia.almada@ufc.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/5641112041037627" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Miguel Castro</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Pici</p>
+                    <p style="margin-top: 0px;">miguel@lia.ufc.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/3865660008588988" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Vasco Furtado</h4>
+                    <p style="margin-top: 0px;">UNIFOR</p>
+                    <p style="margin-top: 0px;">vasco@unifor.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/2991281565518934" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Professor Colaborador</h5>
+                    <h4 style="margin-bottom: 0px;">Vládia Pinheiro</h4>
+                    <p style="margin-top: 0px;">UNIFOR</p>
+                    <p style="margin-top: 0px;">vladiacelia@unifor.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+            </div><! --/row -->
+        </div><! --/container -->
+    
+        <div class="container mtb" style="margin-top: 0px; margin-bottom: 0px;">
+        <div class="row centered">
+                <h4 style="font-size: 20px;">Alunos de Doutorado</h4>
+                <div class="hline"></div> <br>
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/3976161784367385" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Denilson Oliveira</h4>
+                    <p style="margin-top: 0px;">email@email.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+        </div><! --/row -->
+        </div><! --/container -->
+        
+        <div class="container mtb" style="margin-top: 0px; margin-bottom: 0px;">
+        <div class="row centered">
+                <h4 style="font-size: 20px;">Alunos de Graduação</h4>
+                <div class="hline"></div> <br>
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/1479223201460210" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Afonso Lima</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">afonso.matheusufc@gmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+                
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/0871526636926144" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Douglas Oliveira</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">douglasro@alu.ufc.br</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+                
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/5171353074508661" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Isaac Rahel</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">rahel_und@outlook.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+                
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="#" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Jeferson Juliani</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">jeferson.engsoftware@gmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/6527955553622589" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Lavínia Freitas</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">laviniamatosof@hotmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/1481856517089346" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Leon Almeida</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">almeida.leon.araujo@gmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+                
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_female.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/5614049605231077" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Paloma Bispo</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">gsromance1@gmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+
+                <div style="padding-bottom: 30px;" class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="he-wrap tpl6">
+                        <img src="assets/img/team/team_male.svg" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Currículo Lattes</h3>
+                                <a href="http://lattes.cnpq.br/3528649538068445" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-address-card"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->		
+                    </div><!-- he wrap -->
+
+                    <h5 style="margin-bottom: 0px; font-size: 16px;" class="ctitle">Integrante</h5>
+                    <h4 style="margin-bottom: 0px;">Thiago Silva</h4>
+                    <p style="margin-top: 0px;">UFC - Campus Russas</p>
+                    <p style="margin-top: 0px;">thiago.engsoftware@gmail.com</p>
+                    <div class="hline"></div>
+                </div><! --/col-lg-3 -->
+        </div><! --/row -->
+    </div><! --/container -->
+        
+        
 
 	<!-- *****************************************************************************************************************
 	 FOOTER
