@@ -172,7 +172,7 @@
 		 			<h4>Sobre</h4>
 		 			<div class="hline-w"></div>
 		 			<p>Este projeto é financiado pela Universidade Federal do Ceará - UFC desde Março/2017 e coordenado pela Profa. Dra. Marília Soares Mendes</p>
-                                        <img style="padding-bottom: 20px; max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt="">
+                                        <a href="http://www.campusrussas.ufc.br/"><img style="max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt=""></a>
 		 		</div>
                             <div class="col-lg-6">
 		 			<h4>Filiação</h4>

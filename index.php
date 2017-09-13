@@ -16,6 +16,20 @@
     <!-- Custom styles for this template -->
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    
+    <style>
+        .hline {
+            border-bottom: 2px solid #ffffff;
+        }
+        
+        p{
+            color: #ffffff;
+        }
+        
+        body{
+            color: #ffffff;
+        }
+    </style>
 
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
@@ -27,20 +41,72 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-
+ 
   <body>
+      
       <?php include './cabecalho.php'; echo $_SERVER['PHP_SELF'];?>
 	<!-- *****************************************************************************************************************
 	 HEADERWRAP
 	 ***************************************************************************************************************** -->
 	<div id="headerwrap">
 	    <div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<h1>GRUPO IHC - RUSSAS</h1>
-					<h3>Conheça nossos projetos</h3>
-				</div>
-			</div><!-- /row -->
+                <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                                <h1>GRUPO IHC - UFC RUSSAS</h1>
+                                <h3>Conheça nossos projetos</h3> <br>
+                        </div>
+                </div><!-- /row -->
+
+                <div class="container mtb col-lg-4 col-md-4 col-sm-4" style="margin-top: 0px; margin-bottom: 0px;">
+                    <div class="row centered">
+                        <h5 style="font-size: 20px;">Ensino</h5>
+                        <div class="hline"></div> <br>
+
+                            <div style="padding-bottom: 30px;">
+                                <div class="he-wrap tpl6">
+                                    <img src="assets/img/img/ensino.svg" alt="">		
+                                </div><!-- he wrap -->
+
+                                <h4 style="margin-bottom: 0px;">Aplicação prática dos conceitos da disciplina IHC</h4>
+                                <p style="margin-top: 0px;">(2017)</p>
+                            </div>
+                    </div>
+                </div>
+                
+                <div class="container mtb col-lg-4 col-md-4 col-sm-4" style="margin-top: 0px; margin-bottom: 0px;">
+                    <div class="row centered">
+                        <h5 style="font-size: 20px;">Pesquisa</h5>
+                        <div class="hline"></div> <br>
+
+                            <div style="padding-bottom: 30px;">
+                                <div class="he-wrap tpl6">
+                                    <img src="assets/img/team/team_female.svg" alt="">
+                                </div><!-- he wrap -->
+
+                                <h4 style="margin-bottom: 0px;">Projeto MALTU</h4>
+                                <p style="margin-top: 0px;">(2016-2018)</p>
+                            </div>
+                    </div>
+                </div>
+                
+                <div class="container mtb col-lg-4 col-md-4 col-sm-4" style="margin-top: 0px; margin-bottom: 0px;">
+                    <div class="row centered">
+                        <h5 style="font-size: 20px;">Extensão</h5>
+                        <div class="hline"></div> <br>
+
+                            <div style="padding-bottom: 30px;">
+                                <div class="he-wrap tpl6">
+                                    <img src="assets/img/img/pesquisa.svg" alt="">
+                                    <div class="he-view">
+                                    </div><!-- he view -->		
+                                </div><!-- he wrap -->
+
+                                <h4 style="margin-bottom: 0px;">Projeto e desenvolvimento de sistemas acessíveis para o município de Russas</h4>
+                                <p style="margin-top: 0px;">(2017)</p>
+                            </div>
+                    </div>
+                </div>
+        
 	    </div> <!-- /container -->
 	</div><!-- /headerwrap -->
 
@@ -62,7 +128,7 @@
 		 			</p>
                             </div>
                             <div class="col-lg-6 centered logoprincipal">
-                                <img style="max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt="">
+                                <a href="http://www.campusrussas.ufc.br/"><img style="max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt=""></a>
                             </div>
 		 	
 		 	</div><! --/row -->

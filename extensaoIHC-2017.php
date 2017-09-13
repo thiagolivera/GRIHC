@@ -33,14 +33,12 @@
     
     
     <div id="headerwrap" style="min-height: 300px; padding-bottom: 50px;">
-        <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h1>PROJETO E DESENVOLVIMENTO DE SISTEMAS ACESSÍVEIS PARA O MUNICÍPIO DE RUSSAS</h1>
                     <h3>Projeto de Extensão IHC - 2017</h3>
                 </div>
             </div>
-        </div>
     </div>
       
     <!--Seção de Produtos do Projeto -->
@@ -189,7 +187,7 @@
 		 			<h4>Sobre</h4>
 		 			<div class="hline-w"></div>
 		 			<p>Este projeto é financiado pela Universidade Federal do Ceará - UFC desde Março/2017 e coordenado pela Profa. Dra. Marília Soares Mendes</p>
-                                        <img style="padding-bottom: 20px; max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt="">
+                                        <a href="http://www.campusrussas.ufc.br/"><img style="max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt=""></a>
 		 		</div>
                             <div class="col-lg-6">
 		 			<h4>Filiação</h4>

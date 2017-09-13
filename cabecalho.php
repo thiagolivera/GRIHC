@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-                <a class="navbar-brand" style="font-size: 20px;" href="index.php">GRIHC - RUSSAS</a>
+                <a class="navbar-brand" style="font-size: 20px;" href="index.php">GRIHC - UFC RUSSAS</a>
             </div>
             <div class="navbar-collapse collapse navbar-right">
               <ul class="nav navbar-nav">

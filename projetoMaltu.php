@@ -66,7 +66,7 @@
             <p style="font-size: 16px;"><b>Status:</b> Em andamento</p>
             <p style="font-size: 16px;"><b>Coordenador(a):</b> Marília Soares Mendes</p>
             <p style="font-size: 16px;"><b>Categorias:</b> Interação Humano Computador (IHC)</p>
-            <p style="font-size: 16px;"><b>Palavras-chave:</b> Avaliação, Usabilidade, Experiência do Usuário</p>
+            <p style="font-size: 16px;"><b>Palavras-chave:</b> Avaliação, Usabilidade, Experiência do Usuário, Mineração de Dados, Processamento da Linguagem Natural</p>
             <p style="font-size: 16px;"><b>Financiador(a):</b> Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - FUNCAP</p>
 
         </div>
@@ -532,7 +532,7 @@
                                             Cidade Universitária, Russas - CE <br>
                                             Brasil <br>
 		 			</p>
-                                        <img style="padding-bottom: 20px; max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt="">
+                                        <a href="http://www.campusrussas.ufc.br/"><img style="max-width: 300px;" src="assets/img/instituicoes/ufc.png" alt=""></a>
 		 		</div>
 		 	
 		 	</div><! --/row -->
