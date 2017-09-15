@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,7 +48,7 @@
 	<!-- *****************************************************************************************************************
 	 HEADERWRAP
 	 ***************************************************************************************************************** -->
-	<div id="headerwrap">
+        <div id="headerwrap" style="background-color: rgba(0, 179, 254, 0.83);">
 	    <div class="container">
                 <div class="row">
                         <div class="col-lg-8 col-lg-offset-2">
@@ -59,44 +59,49 @@
 
                 <div class="container mtb col-lg-4 col-md-4 col-sm-4" style="margin-top: 0px; margin-bottom: 0px;">
                     <div class="row centered">
+                        <a style="color: #ffffff;" href="monitoriaIHC-2017.php">
                         <h5 style="font-size: 20px;">Ensino</h5>
                         <div class="hline"></div> <br>
 
                             <div style="padding-bottom: 30px;">
                                 <div class="he-wrap tpl6">
-                                    <img src="assets/img/img/ensino.svg" alt="">		
+                                    <img src="assets/img/img/ensino.png" alt="">		
                                 </div><!-- he wrap -->
 
                                 <h4 style="margin-bottom: 0px;">Aplicação prática dos conceitos da disciplina IHC</h4>
                                 <p style="margin-top: 0px;">(2017)</p>
                             </div>
+                        </a>
                     </div>
                 </div>
                 
                 <div class="container mtb col-lg-4 col-md-4 col-sm-4" style="margin-top: 0px; margin-bottom: 0px;">
                     <div class="row centered">
+                        <a style="color: #ffffff;" href="projetoMaltu.php">
                         <h5 style="font-size: 20px;">Pesquisa</h5>
                         <div class="hline"></div> <br>
 
                             <div style="padding-bottom: 30px;">
                                 <div class="he-wrap tpl6">
-                                    <img src="assets/img/team/team_female.svg" alt="">
+                                    <img src="assets/img/img/pesquisa.svg" alt="">
                                 </div><!-- he wrap -->
 
                                 <h4 style="margin-bottom: 0px;">Projeto MALTU</h4>
                                 <p style="margin-top: 0px;">(2016-2018)</p>
                             </div>
+                        </a>
                     </div>
                 </div>
                 
                 <div class="container mtb col-lg-4 col-md-4 col-sm-4" style="margin-top: 0px; margin-bottom: 0px;">
                     <div class="row centered">
+                        <a style="color: #ffffff;" href="extensaoIHC-2017.php">
                         <h5 style="font-size: 20px;">Extensão</h5>
                         <div class="hline"></div> <br>
 
                             <div style="padding-bottom: 30px;">
                                 <div class="he-wrap tpl6">
-                                    <img src="assets/img/img/pesquisa.svg" alt="">
+                                    <img src="assets/img/img/extensao.svg" alt="">
                                     <div class="he-view">
                                     </div><!-- he view -->		
                                 </div><!-- he wrap -->
@@ -104,6 +109,7 @@
                                 <h4 style="margin-bottom: 0px;">Projeto e desenvolvimento de sistemas acessíveis para o município de Russas</h4>
                                 <p style="margin-top: 0px;">(2017)</p>
                             </div>
+                        </a>
                     </div>
                 </div>
         

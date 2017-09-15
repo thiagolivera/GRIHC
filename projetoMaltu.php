@@ -73,7 +73,7 @@
     </div>
           
     <!--Seção de Produtos do Projeto -->
-    <div id="blue" style="padding-top: 20px; padding-bottom: 50px;">
+    <div id="blue" style="padding-top: 20px; padding-bottom: 50px; background: rgba(0, 182, 254, 0.73);">
         <div class="container">
             <div class="row centered">
                 <h3 style="margin-bottom: 20px;">PRODUTOS</h3>
@@ -81,8 +81,8 @@
                     <div class=" col-lg-12 col-sm-12 col-md-12">
                         <div class="portfolio-item graphic-design">
                             <div class="he-wrap tpl6">
-                                <a href="http://uuxposts.russas.ufc.br/" target="_blank"> <img src="assets/img/clients/uuxposts.svg" alt="UUX Posts - Analisador de postagens de sistemas sociais">
-                                <br><a href="http://uuxposts.russas.ufc.br/" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i><h4 style="color: #fff">UUX Posts - Analisador de postagens de sistemas sociais</h4></a>
+                                <a href="http://uuxposts.russas.ufc.br/" target="_blank"> <img src="assets/img/clients/uuxposts.svg" alt="UUX-Posts - Analisador de postagens de sistemas sociais">
+                                <br><a href="http://uuxposts.russas.ufc.br/" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i><h4 style="color: #000">UUX-Posts - Analisador de postagens de sistemas sociais</h4></a>
                             </div><!-- he wrap -->
                         </div><!-- end col-12 -->
                     </div>
