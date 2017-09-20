@@ -81,8 +81,8 @@
                     <div class=" col-lg-12 col-sm-12 col-md-12">
                         <div class="portfolio-item graphic-design">
                             <div class="he-wrap tpl6">
-                                <a href="http://projetoacaodigital.com.br/code3/" target="_blank"> <img id="logoEnglish" src="assets/img/clients/kingdomLogo.svg" alt="UUX Posts - Analisador de postagens de sistemas sociais">
-                                    <br><a href="http://projetoacaodigital.com.br/code3/" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i><h4 style="color: #fff">English Kingdom (Protótipo)<br><h5>Conheça o projeto<h5></h4></a>
+                                <a href="english-kingdom/index.php" target="_blank"> <img id="logoEnglish" src="assets/img/clients/kingdomLogo.svg" alt="English Kingdom">
+                                    <br><a href="english-kingdom/index.php" target="_blank" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-desktop"></i><h4 style="color: #fff">English Kingdom (Protótipo)<br><h5>Conheça o projeto<h5></h4></a>
                                 
                             </div><!-- he wrap -->
                         </div><!-- end col-12 -->
